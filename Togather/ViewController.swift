@@ -16,7 +16,3 @@ class ViewController: UIViewController {
 
     }
 }
-// JK test upload
-// This is super cool -Daeshawnb
-// This is the fdorado985 comments, give it some love!
-// This is shravs1012

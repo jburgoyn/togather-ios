@@ -74,6 +74,49 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		A9A2E14F20F90FB00040ADDE /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				F95EDBE620C8B5B900D483D1 /* ViewController.swift */,
+			);
+			path = Controller;
+			sourceTree = "<group>";
+		};
+		A9A2E15020F90FB90040ADDE /* View */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		A9A2E15120F90FBF0040ADDE /* Model */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		A9A2E15220F90FC30040ADDE /* Service */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Service;
+			sourceTree = "<group>";
+		};
+		A9A2E15320F90FC70040ADDE /* Extensions */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Extensions;
+			sourceTree = "<group>";
+		};
+		A9A2E15420F90FCC0040ADDE /* Utils */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Utils;
+			sourceTree = "<group>";
+		};
 		F95EDBD820C8B5B800D483D1 = {
 			isa = PBXGroup;
 			children = (
@@ -97,8 +140,13 @@
 		F95EDBE320C8B5B900D483D1 /* Togather */ = {
 			isa = PBXGroup;
 			children = (
+				A9A2E15420F90FCC0040ADDE /* Utils */,
+				A9A2E15320F90FC70040ADDE /* Extensions */,
+				A9A2E15220F90FC30040ADDE /* Service */,
+				A9A2E15120F90FBF0040ADDE /* Model */,
+				A9A2E15020F90FB90040ADDE /* View */,
+				A9A2E14F20F90FB00040ADDE /* Controller */,
 				F95EDBE420C8B5B900D483D1 /* AppDelegate.swift */,
-				F95EDBE620C8B5B900D483D1 /* ViewController.swift */,
 				F95EDBE820C8B5B900D483D1 /* Main.storyboard */,
 				F95EDBEB20C8B5B900D483D1 /* Assets.xcassets */,
 				F95EDBED20C8B5B900D483D1 /* LaunchScreen.storyboard */,
